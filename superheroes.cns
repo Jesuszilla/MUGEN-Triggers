@@ -102,3 +102,6 @@ trigger86 = Enemy, Name = "Marvel vs Capcom - Eternity of Heroes: Gambit" || Ene
 ; TMNT
 trigger87 = Enemy, Name = "DcatDonatello" || Enemy, Name = "DcatLeonardo" || Enemy, Name = "DcatMichelangelo" || Enemy, Name = "DcatRaphael"
 trigger88 = Enemy, Name = "Donatello" || Enemy, Name = "Leonardo" || Enemy, Name = "Michelangelo" || Enemy, Name = "Raphael"
+; Dr. Doom
+trigger89 = Enemy, Name = "Dr.Doom" || Enemy, Name = "MvC2 Doom By Kamekaze" || Enemy, Name = "Dr. Doom by WhiteMagic2002"
+trigger90 = Enemy, Name = "Marvel vs Capcom - Eternity of Heroes: Dr.Doom" || Enemy, Name = "DrDoom" || Enemy, Name = "Dr. Doom"

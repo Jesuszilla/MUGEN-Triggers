@@ -13,3 +13,4 @@ trigger12 = Enemy, Name = "Ash" || Enemy, Name = "Ash Crimson" || Enemy, Name = 
 trigger13 = Enemy, Name = "Ukyo" || Enemy, Name = "Tachibana Ukyo" || Enemy, Name = "Ukyo Tachibana"
 trigger14 = Enemy, Name = "Yoshitora" || Enemy, Name = "Yoshitora Tokugawa" || Enemy, Name = "Tokugawa Yoshitora"
 trigger15 = Enemy, Name = "Juda" || Enemy, Name = "Yuda"
+trigger16 = Enemy, Name = "Gill" || Enemy, Name = "cvsgill"
